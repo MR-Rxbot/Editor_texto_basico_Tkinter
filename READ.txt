@@ -1,0 +1,2 @@
+El siguiente proyecto es un editor de texto el cual fue un ejemplo
+practico del modulo tkinter de python. 
